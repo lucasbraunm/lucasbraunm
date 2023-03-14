@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Estudante de Engenharia Mecatrônica pela UnB<br>🔭 Analista Desenvolvedor em Vamos Parcelar<br>🌱Atualmente estudando React e NodeJS
+⚡ Ex aluno de Engenharia Mecatrônica pela UnB, atualmente cursando Engenharia de Software pela FIAP<br>🔭 Analista Desenvolvedor em Vamos Parcelar<br>🌱Atualmente estudando React e NodeJS
 
 
 ## 🌐 Socials:
